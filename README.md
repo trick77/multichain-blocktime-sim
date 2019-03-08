@@ -1,6 +1,6 @@
 # multichain-blocktime-sim
 
-A quick hack I once wrote to play around with different block times for a multichain.
+A quick hack I once wrote to play around with different average block times for a multichain.
 It's based on the idea that every time a block of a bridged (or child) chain is mined, a block
 in the bridging chain has to be mined as well, containing the block headers of the child chain block.
 
