@@ -24,5 +24,3 @@ time=50 blockcollider.height=8 (average=6.25) btc.height=0 eth.height=3 lsk.heig
 .
 The average block time for the base chain is 5.269079 seconds (after 4964400 seconds)
 ```
-
-c
